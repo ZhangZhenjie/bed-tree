@@ -1,0 +1,200 @@
+524100 an energy-efficient data dissemination protocol forwireless sensor networks.
+0.2
+165006 mda approach for maintenance of business applications.
+0.2
+1039066 balancing the criticisms: validating multi-agent models of social systems.
+0.2
+636814 bounded version vectors.
+0.2
+89584 on equivalence of queries in uncertain databases.
+0.2
+854946 logical analysis of biological systems.
+0.2
+229016 designed for unanticipated use: common artefacts as design principle for cscw applications.
+0.2
+910090 introduction.
+0.2
+928092 the effect of pool depth on system evaluation in trec.
+0.2
+689530 a fast algorithm for real-time video tracking.
+0.2
+271893 fault-based automatic test generator for linear analog circuits.
+0.2
+242482 duplication-based scheduling algorithm for interconnection-constrained distributed memory machines.
+0.2
+660675 the compost, compass, inject/j and recoder tool suite for invasive software composition: invasive composition with compass aspect-oriented connectors.
+0.2
+697697 asking the right question: forcing commitment in examination dialogues.
+0.2
+863034 jitter accommodation in token-passing ring lans.
+0.2
+344 dynamic gaze-controlled levels of detail of polygonal objects in 3-d environment modeling.
+0.2
+86314 a gesture based game for image tagging.
+0.2
+15828 scene-cut processing in motion-compensated temporal filtering.
+0.2
+33734 a computational framework for handling motion.
+0.2
+466001 hirnaktivität bei der wahrnehmung fo- manipulierter sprache.
+0.2
+128 efficient and reliable template set matching for 3d object recognition.
+0.2
+1136381 will remote electronic voting systems increase participation?
+0.2
+318455 organizing www images based on the analysis of page layout and web link structure.
+0.2
+19048 a logical approach to designing procedural programming languages (abstract).
+0.2
+577353 documentation design based upon intuitive feature taxonomy and use logging.
+0.2
+339550 posture control of 6-leg walking robot.
+0.2
+1928 user purposes and information-seeking behaviors in web-based media: a user-centered approach to information design on websites.
+0.2
+533169 an empirical comparison of decomposition algorithms for complex finite element meshes.
+0.2
+389930 network equilibrium of heterogeneous congestion control protocols.
+0.2
+30612 cooperation of multiple simulators for mobile ip networks.
+0.2
+334904 epipolar geometry estimation via ransac benefits from the oriented epipolar constraint.
+0.2
+618558 modeling and analysis of real-time and embedded systems.
+0.2
+5551 vision based navigation for power transmission line inspection robot.
+0.2
+34 color digitizing and modeling of free-form 3d objects.
+0.2
+45236 a compact fading channel simulator using timing-driven resource sharing.
+0.2
+1096679 comments on ``a metrics suite for object oriented design''.
+0.2
+944230 an analytical model for loss estimation in network traffic analysis systems.
+0.2
+359148 fast algorithms for computing corporate default probabilities.
+0.2
+30377 extended virtual traditional japanese crafting system on cave.
+0.2
+273590 do we need requirements in cots-based software development?
+0.2
+1010249 cluster detection in background noise.
+0.2
+316405 evaluating logic programs via set-valued functions.
+0.2
+87160 neurons, dendrites, and pattern classification.
+0.2
+667 automatic registration of multiple range images by the local log-polar range images.
+0.2
+45 robust cooperation concept for low-level vision modules.
+0.2
+49278 effects of sampling methods on web accessibility evaluations.
+0.2
+185618 a practical and provably secure scheme for publicly verifiable secret sharing and its applications.
+0.2
+170206 distributed heapmanagement using reference weights.
+0.2
+49 segmenting 3d surface scan data of the human body by 2d projection.
+0.2
+11471 fast transformation of temporal plans for efficient execution.
+0.2
+93515 adaptive runtime partitioning of amr applications on heterogeneous clusters.
+0.2
+46383 emerging patterns and classification.
+0.2
+5867 message from the program chair.
+0.2
+264380 an adaptive rule based automatic lung nodule detection system.
+0.2
+324993 practical method for a learning-based collection fusion.
+0.2
+11599 approximate strategic reasoning through hierarchical reduction of large symmetric games.
+0.2
+663532 wireless grid computing over mobile ad-hoc networks with mobile agent.
+0.2
+603178 optimal solution of the dichromatic model for multispectral photometric invariance.
+0.2
+17920 fully unsupervised discovery of concept-specific relationships by web mining.
+0.2
+684790 on covert collaboration.
+0.2
+2943 production rules as programming.
+0.2
+177551 the document management system saros mezzanine and the new product agora as key component in a digital library architecture at göttingen university library.
+0.2
+989782 lesion selectivity in blockage of lambda exonuclease by dna damage.
+0.2
+771096 on the interaction between localization and location verification for wireless sensor networks.
+0.2
+87848 web-based measurements of intra-collocational cohesion in oxford collocations dictionary.
+0.2
+27260 a system for industrial-strength linguistic parsing of medical documents.
+0.2
+1011450 a theory of proximity based clustering: structure detection by optimization.
+0.2
+857886 integrating generative growth and evolutionary computation for form exploration.
+0.2
+200803 a formal definition of algol 60 as described in the 1975 modified report.
+0.2
+222178 grid computing.
+0.2
+276402 supporting the composition of effective virtual groups for collaborative learning.
+0.2
+128980 depth-from-focus zur bestimmung der konzentration und gröszlig: e von gasblasen.
+0.2
+1027201 a larch shared language handbook.
+0.2
+1189 building a service-oriented ontology for wireless sensor networks.
+0.2
+1317 frontmatter.
+0.2
+265796 frequency-agile adaptive control of an hf air-to-ground datalink.
+0.2
+458704 dependence anti patterns.
+0.2
+165462 finite-element methods with local triangulation refinement for continuous reimforcement learning problems.
+0.2
+1007289 queueing networks with blocking.
+0.2
+257367 a case study using neural networks algorithms: horse racing predictions in jamaica.
+0.2
+566878 exploiting the kaleidoscope architecture in an industrial environmental monitoring system with heterogeneous devices and a knowledge-based supervisor.
+0.2
+592545 pursuing reality with image-based modeling, rendering, and lighting.
+0.2
+382583 mining frequent logical sequences with spirit-log.
+0.2
+291373 a synchronization based algorithm for discovering ellipsoidal clusters in large datasets.
+0.2
+749563 internet pricing vs. reality.
+0.2
+124190 deformable models for reconstructing unstructured 3d data.
+0.2
+247485 a reliable client-server model on top of a micro-kernel.
+0.2
+746762 an interview with fernando jose corbató.
+0.2
+682457 a strategic model for measuring agility with fuzzy logic.
+0.2
+262963 a neural network to retrieve images from text queries.
+0.2
+120096 approximate packet pre-filtering to accelerate pattern matching.
+0.2
+35057 observational logic.
+0.2
+697716 semi-stable semantics.
+0.2
+693391 secure web service federation management using tpm virtualisation.
+0.2
+547262 an efficient and practical algorithm for the many-keyword proximity problem by offsets.
+0.2
+20486 protection profiles for remailer mixes -do the new evaluation criteria help?
+0.2
+1154083 a multi-stop routing problem.
+0.2
+171771 mio: fast multipass partitioning via priority-based instruction scheduling.
+0.2
+27327 exploration techniques of the spatial data warehouses: overview and application to incendiary domain.
+0.2
+771454 grammatical morphemes and conceptual structure in discourse processing.
+0.2

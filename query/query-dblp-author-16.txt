@@ -1,0 +1,200 @@
+524100 cynthia sims parr
+16
+2677635 alex orailoglu
+16
+1039066 ilya levin
+16
+2751589 qinglong hu
+16
+1342107 rosalind w. picard
+16
+1767003 jian-zhong huang
+16
+1594884 adrian perrig
+16
+2134652 lucia draque penso
+16
+928092 judith bishop
+16
+689530 jose angel bolea
+16
+271893 k. doi
+16
+242482 robert jeansoulin
+16
+660675 wei wang
+16
+697697 teruki okamoto
+16
+863034 liyan han
+16
+344 patrick grother
+16
+2087630 jörg a. walter
+16
+15828 emilio l. zapata
+16
+33734 kenneth zeger
+16
+466001 a. maia do amaral
+16
+2856943 wei hu
+16
+1136381 eric allamanche
+16
+318455 anil k. jain
+16
+2499626 boris pasternak
+16
+577353 mark minas
+16
+339550 kai-oliver ludwig
+16
+1498456 david w. walker
+16
+533169 hon wai leong
+16
+389930 joseph n. cappella
+16
+30612 xindong wu
+16
+334904 chin-long wey
+16
+618558 ulrich nageldinger
+16
+2120673 ronald l. boring
+16
+34 paul c. lin
+16
+45236 jiajun bu
+16
+1096679 kari halonen
+16
+1336511 xicheng lu
+16
+1716897 adam jatowt
+16
+2130816 dieter betten
+16
+2181726 jari veijalainen
+16
+2150723 marie-jo bellosta
+16
+316405 douglas c. mckee
+16
+87160 satoshi matsumoto
+16
+667 jean-françois lalonde
+16
+45 ioannis douros
+16
+49278 fabio franci
+16
+2277626 barry r. cobb
+16
+170206 scott wallace
+16
+49 gerd häusler
+16
+1738337 dietmar pree
+16
+93515 yingping huang
+16
+46383 harvey glass
+16
+5867 j. p. djajadiningrat
+16
+1208849 kazuhisa suzuki
+16
+324993 makoto sato
+16
+11599 xiangsheng huang
+16
+2040746 colin h. west
+16
+2486110 margarita otero
+16
+17920 zhiyong ye
+16
+684790 francis kar ho chan
+16
+1820713 yaowu chen
+16
+177551 bogdan smolka
+16
+989782 ronny melz
+16
+771096 jeffrey b. remmel
+16
+87848 h. jaap van den herik
+16
+2779286 alan j. demers
+16
+1011450 tomás horváth
+16
+857886 ljupco todorovski
+16
+200803 kshamta jerath
+16
+222178 i. scott mackenzie
+16
+1527162 kenneth j. giuliani
+16
+2370987 ben robbins
+16
+2206858 leslie henrickson
+16
+1189 markus feißt
+16
+1317 gaetano impoco
+16
+2512594 ruedi suter
+16
+1611125 jacobo torán
+16
+2889850 p. hajela
+16
+1007289 gaddam tulasi ram das
+16
+257367 jeffry schwartz
+16
+2094691 guillaume bonfante
+16
+592545 xiaowu chen
+16
+382583 jaroslav pokorný
+16
+1889807 leonard barolli
+16
+749563 noriaki yoshiura
+16
+124190 chao huang
+16
+2380364 herbert kanner
+16
+746762 k. s. ng
+16
+1219245 javier garzás
+16
+262963 raymond k. wong
+16
+120096 motoaki matsumura
+16
+2490805 pedro medas
+16
+697716 michele pagano
+16
+1801722 ying liu
+16
+547262 yutaka hatakeyama
+16
+20486 karim belaid
+16
+1154083 renato porfirio ishii
+16
+171771 kurt ammon
+16
+27327 sebastian thrun
+16
+771454 alex thomo
+16

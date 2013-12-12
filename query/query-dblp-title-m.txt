@@ -1,0 +1,100 @@
+an energy-efficient data dissemination protocol forwireless sensor networks.
+mda approach for maintenance of business applications.
+balancing the criticisms: validating multi-agent models of social systems.
+bounded version vectors.
+on equivalence of queries in uncertain databases.
+logical analysis of biological systems.
+designed for unanticipated use: common artefacts as design principle for cscw applications.
+introduction.
+the effect of pool depth on system evaluation in trec.
+a fast algorithm for real-time video tracking.
+fault-based automatic test generator for linear analog circuits.
+duplication-based scheduling algorithm for interconnection-constrained distributed memory machines.
+the compost, compass, inject/j and recoder tool suite for invasive software composition: invasive composition with compass aspect-oriented connectors.
+asking the right question: forcing commitment in examination dialogues.
+jitter accommodation in token-passing ring lans.
+dynamic gaze-controlled levels of detail of polygonal objects in 3-d environment modeling.
+a gesture based game for image tagging.
+scene-cut processing in motion-compensated temporal filtering.
+a computational framework for handling motion.
+hirnaktivität bei der wahrnehmung fo- manipulierter sprache.
+efficient and reliable template set matching for 3d object recognition.
+will remote electronic voting systems increase participation?
+organizing www images based on the analysis of page layout and web link structure.
+a logical approach to designing procedural programming languages (abstract).
+documentation design based upon intuitive feature taxonomy and use logging.
+posture control of 6-leg walking robot.
+user purposes and information-seeking behaviors in web-based media: a user-centered approach to information design on websites.
+an empirical comparison of decomposition algorithms for complex finite element meshes.
+network equilibrium of heterogeneous congestion control protocols.
+cooperation of multiple simulators for mobile ip networks.
+epipolar geometry estimation via ransac benefits from the oriented epipolar constraint.
+modeling and analysis of real-time and embedded systems.
+vision based navigation for power transmission line inspection robot.
+color digitizing and modeling of free-form 3d objects.
+a compact fading channel simulator using timing-driven resource sharing.
+comments on ``a metrics suite for object oriented design''.
+an analytical model for loss estimation in network traffic analysis systems.
+fast algorithms for computing corporate default probabilities.
+extended virtual traditional japanese crafting system on cave.
+do we need requirements in cots-based software development?
+cluster detection in background noise.
+evaluating logic programs via set-valued functions.
+neurons, dendrites, and pattern classification.
+automatic registration of multiple range images by the local log-polar range images.
+robust cooperation concept for low-level vision modules.
+effects of sampling methods on web accessibility evaluations.
+a practical and provably secure scheme for publicly verifiable secret sharing and its applications.
+distributed heapmanagement using reference weights.
+segmenting 3d surface scan data of the human body by 2d projection.
+fast transformation of temporal plans for efficient execution.
+adaptive runtime partitioning of amr applications on heterogeneous clusters.
+emerging patterns and classification.
+message from the program chair.
+an adaptive rule based automatic lung nodule detection system.
+practical method for a learning-based collection fusion.
+approximate strategic reasoning through hierarchical reduction of large symmetric games.
+wireless grid computing over mobile ad-hoc networks with mobile agent.
+optimal solution of the dichromatic model for multispectral photometric invariance.
+fully unsupervised discovery of concept-specific relationships by web mining.
+on covert collaboration.
+production rules as programming.
+the document management system saros mezzanine and the new product agora as key component in a digital library architecture at göttingen university library.
+lesion selectivity in blockage of lambda exonuclease by dna damage.
+on the interaction between localization and location verification for wireless sensor networks.
+web-based measurements of intra-collocational cohesion in oxford collocations dictionary.
+a system for industrial-strength linguistic parsing of medical documents.
+a theory of proximity based clustering: structure detection by optimization.
+integrating generative growth and evolutionary computation for form exploration.
+a formal definition of algol 60 as described in the 1975 modified report.
+grid computing.
+supporting the composition of effective virtual groups for collaborative learning.
+depth-from-focus zur bestimmung der konzentration und gröszlig: e von gasblasen.
+a larch shared language handbook.
+building a service-oriented ontology for wireless sensor networks.
+frontmatter.
+frequency-agile adaptive control of an hf air-to-ground datalink.
+dependence anti patterns.
+finite-element methods with local triangulation refinement for continuous reimforcement learning problems.
+queueing networks with blocking.
+a case study using neural networks algorithms: horse racing predictions in jamaica.
+exploiting the kaleidoscope architecture in an industrial environmental monitoring system with heterogeneous devices and a knowledge-based supervisor.
+pursuing reality with image-based modeling, rendering, and lighting.
+mining frequent logical sequences with spirit-log.
+a synchronization based algorithm for discovering ellipsoidal clusters in large datasets.
+internet pricing vs. reality.
+deformable models for reconstructing unstructured 3d data.
+a reliable client-server model on top of a micro-kernel.
+an interview with fernando jose corbató.
+a strategic model for measuring agility with fuzzy logic.
+a neural network to retrieve images from text queries.
+approximate packet pre-filtering to accelerate pattern matching.
+observational logic.
+semi-stable semantics.
+secure web service federation management using tpm virtualisation.
+an efficient and practical algorithm for the many-keyword proximity problem by offsets.
+protection profiles for remailer mixes -do the new evaluation criteria help?
+a multi-stop routing problem.
+mio: fast multipass partitioning via priority-based instruction scheduling.
+exploration techniques of the spatial data warehouses: overview and application to incendiary domain.
+grammatical morphemes and conceptual structure in discourse processing.

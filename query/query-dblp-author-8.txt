@@ -1,0 +1,200 @@
+524100 cynthia sims parr
+8
+2677635 alex orailoglu
+8
+1039066 ilya levin
+8
+2751589 qinglong hu
+8
+1342107 rosalind w. picard
+8
+1767003 jian-zhong huang
+8
+1594884 adrian perrig
+8
+2134652 lucia draque penso
+8
+928092 judith bishop
+8
+689530 jose angel bolea
+8
+271893 k. doi
+8
+242482 robert jeansoulin
+8
+660675 wei wang
+8
+697697 teruki okamoto
+8
+863034 liyan han
+8
+344 patrick grother
+8
+2087630 jörg a. walter
+8
+15828 emilio l. zapata
+8
+33734 kenneth zeger
+8
+466001 a. maia do amaral
+8
+2856943 wei hu
+8
+1136381 eric allamanche
+8
+318455 anil k. jain
+8
+2499626 boris pasternak
+8
+577353 mark minas
+8
+339550 kai-oliver ludwig
+8
+1498456 david w. walker
+8
+533169 hon wai leong
+8
+389930 joseph n. cappella
+8
+30612 xindong wu
+8
+334904 chin-long wey
+8
+618558 ulrich nageldinger
+8
+2120673 ronald l. boring
+8
+34 paul c. lin
+8
+45236 jiajun bu
+8
+1096679 kari halonen
+8
+1336511 xicheng lu
+8
+1716897 adam jatowt
+8
+2130816 dieter betten
+8
+2181726 jari veijalainen
+8
+2150723 marie-jo bellosta
+8
+316405 douglas c. mckee
+8
+87160 satoshi matsumoto
+8
+667 jean-françois lalonde
+8
+45 ioannis douros
+8
+49278 fabio franci
+8
+2277626 barry r. cobb
+8
+170206 scott wallace
+8
+49 gerd häusler
+8
+1738337 dietmar pree
+8
+93515 yingping huang
+8
+46383 harvey glass
+8
+5867 j. p. djajadiningrat
+8
+1208849 kazuhisa suzuki
+8
+324993 makoto sato
+8
+11599 xiangsheng huang
+8
+2040746 colin h. west
+8
+2486110 margarita otero
+8
+17920 zhiyong ye
+8
+684790 francis kar ho chan
+8
+1820713 yaowu chen
+8
+177551 bogdan smolka
+8
+989782 ronny melz
+8
+771096 jeffrey b. remmel
+8
+87848 h. jaap van den herik
+8
+2779286 alan j. demers
+8
+1011450 tomás horváth
+8
+857886 ljupco todorovski
+8
+200803 kshamta jerath
+8
+222178 i. scott mackenzie
+8
+1527162 kenneth j. giuliani
+8
+2370987 ben robbins
+8
+2206858 leslie henrickson
+8
+1189 markus feißt
+8
+1317 gaetano impoco
+8
+2512594 ruedi suter
+8
+1611125 jacobo torán
+8
+2889850 p. hajela
+8
+1007289 gaddam tulasi ram das
+8
+257367 jeffry schwartz
+8
+2094691 guillaume bonfante
+8
+592545 xiaowu chen
+8
+382583 jaroslav pokorný
+8
+1889807 leonard barolli
+8
+749563 noriaki yoshiura
+8
+124190 chao huang
+8
+2380364 herbert kanner
+8
+746762 k. s. ng
+8
+1219245 javier garzás
+8
+262963 raymond k. wong
+8
+120096 motoaki matsumura
+8
+2490805 pedro medas
+8
+697716 michele pagano
+8
+1801722 ying liu
+8
+547262 yutaka hatakeyama
+8
+20486 karim belaid
+8
+1154083 renato porfirio ishii
+8
+171771 kurt ammon
+8
+27327 sebastian thrun
+8
+771454 alex thomo
+8

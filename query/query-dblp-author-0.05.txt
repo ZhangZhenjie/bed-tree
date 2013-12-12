@@ -1,0 +1,200 @@
+524100 cynthia sims parr
+0.05
+2677635 alex orailoglu
+0.05
+1039066 ilya levin
+0.05
+2751589 qinglong hu
+0.05
+1342107 rosalind w. picard
+0.05
+1767003 jian-zhong huang
+0.05
+1594884 adrian perrig
+0.05
+2134652 lucia draque penso
+0.05
+928092 judith bishop
+0.05
+689530 jose angel bolea
+0.05
+271893 k. doi
+0.05
+242482 robert jeansoulin
+0.05
+660675 wei wang
+0.05
+697697 teruki okamoto
+0.05
+863034 liyan han
+0.05
+344 patrick grother
+0.05
+2087630 jörg a. walter
+0.05
+15828 emilio l. zapata
+0.05
+33734 kenneth zeger
+0.05
+466001 a. maia do amaral
+0.05
+2856943 wei hu
+0.05
+1136381 eric allamanche
+0.05
+318455 anil k. jain
+0.05
+2499626 boris pasternak
+0.05
+577353 mark minas
+0.05
+339550 kai-oliver ludwig
+0.05
+1498456 david w. walker
+0.05
+533169 hon wai leong
+0.05
+389930 joseph n. cappella
+0.05
+30612 xindong wu
+0.05
+334904 chin-long wey
+0.05
+618558 ulrich nageldinger
+0.05
+2120673 ronald l. boring
+0.05
+34 paul c. lin
+0.05
+45236 jiajun bu
+0.05
+1096679 kari halonen
+0.05
+1336511 xicheng lu
+0.05
+1716897 adam jatowt
+0.05
+2130816 dieter betten
+0.05
+2181726 jari veijalainen
+0.05
+2150723 marie-jo bellosta
+0.05
+316405 douglas c. mckee
+0.05
+87160 satoshi matsumoto
+0.05
+667 jean-françois lalonde
+0.05
+45 ioannis douros
+0.05
+49278 fabio franci
+0.05
+2277626 barry r. cobb
+0.05
+170206 scott wallace
+0.05
+49 gerd häusler
+0.05
+1738337 dietmar pree
+0.05
+93515 yingping huang
+0.05
+46383 harvey glass
+0.05
+5867 j. p. djajadiningrat
+0.05
+1208849 kazuhisa suzuki
+0.05
+324993 makoto sato
+0.05
+11599 xiangsheng huang
+0.05
+2040746 colin h. west
+0.05
+2486110 margarita otero
+0.05
+17920 zhiyong ye
+0.05
+684790 francis kar ho chan
+0.05
+1820713 yaowu chen
+0.05
+177551 bogdan smolka
+0.05
+989782 ronny melz
+0.05
+771096 jeffrey b. remmel
+0.05
+87848 h. jaap van den herik
+0.05
+2779286 alan j. demers
+0.05
+1011450 tomás horváth
+0.05
+857886 ljupco todorovski
+0.05
+200803 kshamta jerath
+0.05
+222178 i. scott mackenzie
+0.05
+1527162 kenneth j. giuliani
+0.05
+2370987 ben robbins
+0.05
+2206858 leslie henrickson
+0.05
+1189 markus feißt
+0.05
+1317 gaetano impoco
+0.05
+2512594 ruedi suter
+0.05
+1611125 jacobo torán
+0.05
+2889850 p. hajela
+0.05
+1007289 gaddam tulasi ram das
+0.05
+257367 jeffry schwartz
+0.05
+2094691 guillaume bonfante
+0.05
+592545 xiaowu chen
+0.05
+382583 jaroslav pokorný
+0.05
+1889807 leonard barolli
+0.05
+749563 noriaki yoshiura
+0.05
+124190 chao huang
+0.05
+2380364 herbert kanner
+0.05
+746762 k. s. ng
+0.05
+1219245 javier garzás
+0.05
+262963 raymond k. wong
+0.05
+120096 motoaki matsumura
+0.05
+2490805 pedro medas
+0.05
+697716 michele pagano
+0.05
+1801722 ying liu
+0.05
+547262 yutaka hatakeyama
+0.05
+20486 karim belaid
+0.05
+1154083 renato porfirio ishii
+0.05
+171771 kurt ammon
+0.05
+27327 sebastian thrun
+0.05
+771454 alex thomo
+0.05

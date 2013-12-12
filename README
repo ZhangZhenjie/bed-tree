@@ -1,0 +1,105 @@
+(1) What is this?
+This is the package for BED-tree, an index structure for approximate string search on the basis of B+ tree. It supports the following features.
+
+a) It supports flexible buffer size.
+b) It generally supports all types of approxiamte string search queries, including range query, top-k query and join query.
+c) It supports both edit distance and normalized edit distance.
+d) It is simply compilable on both windows and unix systems.
+
+The details of the techniques are available in the following paper:
+
+Zhenjie Zhang, Marios Hadjieleftheriou, Beng Chin Ooi, and Divesh Srivastava, "B^{ed}-Tree: An All-Purpose Tree Index for String Similarity Search on Edit Distance". to
+appear in SIGMOD 2010.
+
+(2) How to use it?
+If you are in unix system, type the following command to compile the source codes.
+
+bedtree>cd src
+src>make
+
+To test the binary, continue with the following commands:
+
+src>cd ../bin
+bin>./kjoin.sh
+
+If you can see reasonable results on the screen, the program is supposed to work well.
+
+If you are in the Windows system, you need to build a new C++ project with any of mainstream IDE, e.g. Visual Studio. Please include all the header and source files in
+the src folder and compile. I have tested Visual Studio 2005 and it works well.
+
+(3) How to run commands by myself?
+After the generation of binary excutable, you can try different parameters or test on other string set. To do that, you need to finish two steps, as described below.
+
+a) prepare your string file
+Currently, we only support a simple plain text input of string collections. Every string occupies one line in the input file, in format:
+#id "string content"
+
+Check any file in the /data folder for details of the format. I'm sure you can understand it without any effort.
+
+b) understand the parameters for the binary excutable
+There are quite a lot parameters to set if you want to run the program by yourself. The format depends on the string order you want to use.
+
+If you are using "dictoary order", the format is :
+./bedtree -d -[Query Type] [Data File] [Data Size] [Page Size] [Buffer Size] [Maximum Node Size] [Query File] [Query Size]
+
+If you are using "gram count order", the format is :
+./bedtree -g -[Query Type] [Data File] [Data Size] [Page Size] [Buffer Size] [Maximum Node Size] [Query File] [Query Size] [Gram Length] [Bucket Number] [Maximum Bits]
+
+If you are using "normalized gram count order", the format is :
+./bedtree -ng -[Query Type] [Data File] [Data Size] [Page Size] [Buffer Size] [Maximum Node Size] [Query File] [Query Size] [Gram Length] [Bucket Number] [Maximum Bits]
+
+If you are using "gram location order", the format is :
+./bedtree -a -[Query Type] [Data File] [Data Size] [Page Size] [Buffer Size] [Maximum Node Size] [Query File] [Query Size] [Gram Length] [Gram Number] [Maximum Bits]
+
+[Query Type]
+-r : range query
+-k : top-k query
+-j : join query
+-kj : top-k join query
+
+[Data File]
+The location of the file for the string collection
+
+[Data Size]
+The number of strings in the file you want to index
+
+[Page Size]
+The size of the each page in the tree structure, in KB
+
+[Buffer Size]
+The size of the buffer in the main memory, in KB. Note that the structure is disk-based.
+
+[Maximum Node Size]
+The maximal number of nodes in the B+ tree. Actually, I have modified the codes for automatic expansion on this parameter. But if you can pre-specify a good number, it
+will save a lot of efforts for the program on the expansion and migration.
+
+[Query File]
+The location of the file with query strings.
+
+[Query Size]
+The number of query strings
+
+[Gram Length]
+The length of the grams you want to index
+
+[Bucket Number]
+The number of buckets used to hash the grams. Deatails see the paper listed above.
+
+[Maximum Bits]
+The number of bits used for the counting in the buckets. Details see the paper listed above.
+
+[Gram Number]
+The number of grams you want to index. Details see the paper listed above.
+
+For example, the following commands runs top-k join queries on the dblp-author data
+
+./bedtree -kj -d ../data/data-dblp-author.txt 696361 8 300000 60000 ../query/query-dblp-author-1.txt 100
+
+(4) You are confused?
+Feel free to contact me if you have any question on the package. You can reach me by droping an email to the following address:
+
+zhenjie at adsc dot com dot sg
+
+Dr. Zhenjie Zhang
+
+December 12, 2013

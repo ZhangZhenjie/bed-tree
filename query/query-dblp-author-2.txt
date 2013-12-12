@@ -1,0 +1,200 @@
+524100 cynthia sims parr
+2
+2677635 alex orailoglu
+2
+1039066 ilya levin
+2
+2751589 qinglong hu
+2
+1342107 rosalind w. picard
+2
+1767003 jian-zhong huang
+2
+1594884 adrian perrig
+2
+2134652 lucia draque penso
+2
+928092 judith bishop
+2
+689530 jose angel bolea
+2
+271893 k. doi
+2
+242482 robert jeansoulin
+2
+660675 wei wang
+2
+697697 teruki okamoto
+2
+863034 liyan han
+2
+344 patrick grother
+2
+2087630 jörg a. walter
+2
+15828 emilio l. zapata
+2
+33734 kenneth zeger
+2
+466001 a. maia do amaral
+2
+2856943 wei hu
+2
+1136381 eric allamanche
+2
+318455 anil k. jain
+2
+2499626 boris pasternak
+2
+577353 mark minas
+2
+339550 kai-oliver ludwig
+2
+1498456 david w. walker
+2
+533169 hon wai leong
+2
+389930 joseph n. cappella
+2
+30612 xindong wu
+2
+334904 chin-long wey
+2
+618558 ulrich nageldinger
+2
+2120673 ronald l. boring
+2
+34 paul c. lin
+2
+45236 jiajun bu
+2
+1096679 kari halonen
+2
+1336511 xicheng lu
+2
+1716897 adam jatowt
+2
+2130816 dieter betten
+2
+2181726 jari veijalainen
+2
+2150723 marie-jo bellosta
+2
+316405 douglas c. mckee
+2
+87160 satoshi matsumoto
+2
+667 jean-françois lalonde
+2
+45 ioannis douros
+2
+49278 fabio franci
+2
+2277626 barry r. cobb
+2
+170206 scott wallace
+2
+49 gerd häusler
+2
+1738337 dietmar pree
+2
+93515 yingping huang
+2
+46383 harvey glass
+2
+5867 j. p. djajadiningrat
+2
+1208849 kazuhisa suzuki
+2
+324993 makoto sato
+2
+11599 xiangsheng huang
+2
+2040746 colin h. west
+2
+2486110 margarita otero
+2
+17920 zhiyong ye
+2
+684790 francis kar ho chan
+2
+1820713 yaowu chen
+2
+177551 bogdan smolka
+2
+989782 ronny melz
+2
+771096 jeffrey b. remmel
+2
+87848 h. jaap van den herik
+2
+2779286 alan j. demers
+2
+1011450 tomás horváth
+2
+857886 ljupco todorovski
+2
+200803 kshamta jerath
+2
+222178 i. scott mackenzie
+2
+1527162 kenneth j. giuliani
+2
+2370987 ben robbins
+2
+2206858 leslie henrickson
+2
+1189 markus feißt
+2
+1317 gaetano impoco
+2
+2512594 ruedi suter
+2
+1611125 jacobo torán
+2
+2889850 p. hajela
+2
+1007289 gaddam tulasi ram das
+2
+257367 jeffry schwartz
+2
+2094691 guillaume bonfante
+2
+592545 xiaowu chen
+2
+382583 jaroslav pokorný
+2
+1889807 leonard barolli
+2
+749563 noriaki yoshiura
+2
+124190 chao huang
+2
+2380364 herbert kanner
+2
+746762 k. s. ng
+2
+1219245 javier garzás
+2
+262963 raymond k. wong
+2
+120096 motoaki matsumura
+2
+2490805 pedro medas
+2
+697716 michele pagano
+2
+1801722 ying liu
+2
+547262 yutaka hatakeyama
+2
+20486 karim belaid
+2
+1154083 renato porfirio ishii
+2
+171771 kurt ammon
+2
+27327 sebastian thrun
+2
+771454 alex thomo
+2
